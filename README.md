@@ -1,4 +1,13 @@
-### Hi there 👋
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ravin-singh&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ravin-singh&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravin-singh&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ravin-singh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!--
 **ravin-singh/ravin-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
